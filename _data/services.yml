@@ -6,6 +6,8 @@ companies:
   - name: Catalyst IT
     url: http://catalyst.net.nz
     twitter: catalystnz
+    diversitydata: yes
+    documentation: http://pastebin.com/NZvVLtR4 
 
   - name: Vend
     twitter: vendhq
